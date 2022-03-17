@@ -19,8 +19,7 @@
 <div> 
   <a href = "" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-rianelli-de-oliveira-409609228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
+  
   ![Snake animation](https://github.com/JonathanRianelli/JonathanRianelli/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
