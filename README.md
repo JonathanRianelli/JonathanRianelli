@@ -17,7 +17,7 @@
   <img align="center" alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
   <img align="center" alt="github" height="30" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png">&nbsp;
   <img align="center" alt="photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">&nbsp;
-<!--   <img align="center" alt="illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">&nbsp; -->
+  <img align="center" alt="illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">&nbsp;
   
 </div>
 
